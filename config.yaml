@@ -1,3 +1,9 @@
 seeder: 
   file: ./seeder/seeder.rb
   disabled: false
+
+
+parsers:
+  - file: ./parsers/product.rb
+    disabled: true
+    page_type: search
