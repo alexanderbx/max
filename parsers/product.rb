@@ -13,4 +13,6 @@ product.each do |product|
             price: price
         }
     }
+
+    pages << page
 end
