@@ -7,3 +7,7 @@ parsers:
   - file: ./parsers/product.rb
     disabled: true
     page_type: search
+
+  - file: ./parsers/search.rb
+    disabled: true 
+    page_type: product
