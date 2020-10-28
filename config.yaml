@@ -6,8 +6,8 @@ seeder:
 parsers:
   - file: ./parsers/product.rb
     disabled: false
-    page_type: search
+    page_type: product
 
   - file: ./parsers/search.rb
     disabled: false
-    page_type: product
+    page_type: search
