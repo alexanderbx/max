@@ -10,4 +10,4 @@ parsers:
 
   - file: ./parsers/search.rb
     disabled: false
-    page_type: search
+    page_type: search #del seeder
